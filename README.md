@@ -3,10 +3,10 @@ This program lets users send messages back and forth under a username of their c
 and each message is limited to 128 characters.
 
 # Explanation of the components and their interactions:
-* * This message board uses React (JavaScript), Node (JavaScript), HTML, and CSS.
-* * The CSS components and HTML components work together to create the display and interactions for the message board.
-* * The Node component uses socket.io to communicate with the React features. socket.io lets the React components know whenever a message has been sent, whenever a user joins the chat room, and whenever a user leaves the chat room.
-* * The React component receives messages from the Node component and displays messages and the corresponding information. 
+* This message board uses React (JavaScript), Node (JavaScript), HTML, and CSS.
+* The CSS components and HTML components work together to create the display and interactions for the message board.
+* The Node component uses socket.io to communicate with the React features. socket.io lets the React components know whenever a message has been sent, whenever a user joins the chat room, and whenever a user leaves the chat room.
+* The React component receives messages from the Node component and displays messages and the corresponding information. 
 
 
 # Features:
