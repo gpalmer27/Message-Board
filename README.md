@@ -17,6 +17,8 @@ and each message is limited to 128 characters.
 * Users can choose a username, and that username is displayed underneath all messages that they send
 
 # How to start the application:
+* Download the file from GitHub and unzip the folder
+* Drag the folder into VSCode or a different code editor of your choice
 * In the terminal, go to the folder that holds the file and type "pip3 install flask" if not already installed
 * Go to https://nodejs.org/en/download and install node
 * In the file itself, type "cd server" to get to the server folder
